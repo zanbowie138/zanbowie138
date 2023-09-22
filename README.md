@@ -9,5 +9,6 @@
 - C++
 - OpenGL
 - HTML/CSS
+- Javascript/Typescript
 
 
